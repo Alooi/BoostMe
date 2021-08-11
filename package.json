@@ -1,0 +1,21 @@
+{
+  "name": "clickboost",
+  "version": "0.1.0",
+  "description": "super secret",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "clicker"
+  ],
+  "author": "AladdinTwisted",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.1.8"
+  },
+  "dependencies": {
+    "global-mouse-events": "^1.0.7",
+    "robotjs": "^0.6.0"
+  }
+}
